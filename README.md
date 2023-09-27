@@ -1,6 +1,8 @@
 ![YDLIDAR](images/YDLidar.jpg  "YDLIDAR")
 # YDLIDAR ROS2 Driver
 
+Modified version to work with ROS2 Humble
+
 ydlidar_ros2_driver is a new ros package, which is designed to gradually become the standard driver package for ydlidar devices in the ros2 environment.
 
 ## How to [install ROS2](https://index.ros.org/doc/ros2/Installation)
